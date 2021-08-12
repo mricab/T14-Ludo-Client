@@ -1,0 +1,12 @@
+C:\Users\Marce\Desktop\Proyectos\T11_Ludo\LudoClient\LudoClient\bin\Debug\LudoClient.exe.config
+C:\Users\Marce\Desktop\Proyectos\T11_Ludo\LudoClient\LudoClient\bin\Debug\LudoClient.exe
+C:\Users\Marce\Desktop\Proyectos\T11_Ludo\LudoClient\LudoClient\bin\Debug\LudoClient.pdb
+C:\Users\Marce\Desktop\Proyectos\T11_Ludo\LudoClient\LudoClient\obj\Debug\LudoClient.csproj.AssemblyReference.cache
+C:\Users\Marce\Desktop\Proyectos\T11_Ludo\LudoClient\LudoClient\obj\Debug\LudoClient.Form1.resources
+C:\Users\Marce\Desktop\Proyectos\T11_Ludo\LudoClient\LudoClient\obj\Debug\LudoClient.Properties.Resources.resources
+C:\Users\Marce\Desktop\Proyectos\T11_Ludo\LudoClient\LudoClient\obj\Debug\LudoClient.csproj.GenerateResource.cache
+C:\Users\Marce\Desktop\Proyectos\T11_Ludo\LudoClient\LudoClient\obj\Debug\LudoClient.csproj.CoreCompileInputs.cache
+C:\Users\Marce\Desktop\Proyectos\T11_Ludo\LudoClient\LudoClient\obj\Debug\LudoClient.exe
+C:\Users\Marce\Desktop\Proyectos\T11_Ludo\LudoClient\LudoClient\obj\Debug\LudoClient.pdb
+C:\Users\Marce\Desktop\Proyectos\T11_Ludo\LudoClient\LudoClient\obj\Debug\LudoClient.Form2.resources
+C:\Users\Marce\Desktop\Proyectos\T11_Ludo\LudoClient\LudoClient\obj\Debug\LudoClient.Form3.resources
